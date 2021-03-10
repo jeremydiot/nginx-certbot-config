@@ -1,1 +1,1 @@
-# nginx_certbot_config
+# nginx-certbot-config
